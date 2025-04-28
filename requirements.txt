@@ -1,1 +1,4 @@
-Flask==2.0.1 nltk==3.6.5
+app.py
+requirements.txt
+README.md
+.gitignore
